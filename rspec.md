@@ -7,7 +7,7 @@
 
 #### What to test first?
   * Ask yourself: "whats the core of the project?"
-   
+ 
 #### Good Habits
   * Describe precisely what you want the program to do in order to avoid being to strict or lax.
   * Write specs to report failure at the right level of detail.
